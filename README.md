@@ -13,7 +13,7 @@
 ### 1. Diverse Escape Environments
 From bustling cities to desolate deserts, Escape Road offers a rich variety of escape scenarios. Each terrain presents unique challenges, testing your adaptability and driving skills.
 
-### 2. 45 Unlockable Vehicles
+### 2. 90 Unlockable Vehicles
 Choose between ordinary sedans or supercars! Earn cash through gameplay to unlock 45 different high-performance vehicles, making your escape journey even more exciting.
 
 ### 3. Intense Chase Gameplay
